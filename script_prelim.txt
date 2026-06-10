@@ -1,0 +1,219 @@
+Oil and gas have been ALWAYS the cause of war. Currently a major regional war is occurring with
+oil and gas prices rapidly increasing. The cause of ANY war is OIL. Thus, it is now time to cut oil
+entirely and there is a way that has existed ever since-the motion of seawater. Sea constitutes 70%
+of earth surface while the motion of sea waves is uninterrupted and cannot be stopped unless the
+moon is stopped from running around the earth which would result in the earth being tidally locked
+to the sun, resultimg in the end of life on earth. As there are many practical challenges in turning such
+seawater wave motions into useable energy, the vast potential of the seawater motion based energy
+has not been realized yet except for some prototypes. 
+Since the origination of my inital ideas, a major war has occurred and is going on in the Middle East,
+severely affecting international trade and (the now broken so-called "global supply chain") energy supply.
+Thus, the decoupling from "global" oil and gas resources has become more important and urgent than ever
+The war in Ukraine has emphasized the importance of decentralizing electricity infrastructure for resillence.
+<Fig> Burning oil well
+The other geopolitical hazard in energy supply is ESS. As many ESS is made of rare earth materials such as
+lithium, they cause a supply risk depending of the geopolitical tensions at a specific time, such as the
+country monopolizing 
+<Fig,Winnie the Pooh>
+
+
+Ai notice
+The thumbnail and a few images are AI generated from nano banana,some from Leonardo.ai in the
+past. 
+However, the idea and plan are all my made and drawings other than
+some wiki images are hand drawn. I cannot learn cad because the learning
+curve is steep, takes a long time , resulting in minimum wage job.
+Some technical consultation was gotten from Gemini and ChatGPT as I am not an energy power major
+at college.
+No part of this presentation may be used for commercial purposes.
+
+
+
+
+
+
+Cheap gas caused the current Ukrainian war and currently a large regional war
+is going on in Middle East because of oil
+Alternatives so far:
+1)Renewables-Mainly wind and solar
+  -Unstable supply, no electricity at all if cloudy and no wind
+  -Low efficiency(less than 20% for solar)
+  -Safety(exploding windmills-photo)
+  -Solar panels destroy environment
+  -Unsuitable for heavychemical industry power supply which require
+   uninterrupted supply of high power(semicon, petrochemical,steel etc)
+  -Just solar energt has been proven to greatly save air conditioning costs in summer
+    where 97% humidity and 37C indoor temperature mandate air conditioners; but
+    mandatory thermal insulation rules have actually enabled it
+   <Figs>: Offshore wind mill, solar panels
+
+
+
+
+2)Nuclear powerplants
+  -The best alternative but infeasible without centralized governance
+  -Influenced by geopolitics and local politics
+  -Only Korea(KSTAR) and China(EAST) have mass producable nuclear fusion tech
+  -Requires massive investment and long time for building
+  -Only viable for more than at least  midsized countries, 
+  -Nuclear waste disposal problem cannot be solved
+   <Fig.    Chernobyl>
+3)Geothermal
+  -Requires deep drilling, high costs
+  -Unsuitable for industries,dwelling only
+Why we need much more energy?
+ -AI: GPU array rigs consume a lot of power and cooling
+ -Global weather anomalies:Environment must be fully controlled to ensure normal
+  and efficient human activities-heating/air conditioning,
+ -Shitwater burning: Medieval pest and very likely the past corona illness were
+  exacerbated by transfer through poor sanitization/sewage
+  All men only have to go to the army where we burn shit in a drum with oil.
+  In short, nothing can be left to nature anymore and must be controlled with
+  computer and electricity(antigada evadema included)
+
+
+  <Table  > Comparisons of various alternative energy sources
+                    Availability        Provenness  Time to implement    Cost    Politics/geopolitics
+Wind              Sometimes        Low           Middle                    High     Middle
+Solar             Nonrain daylight only   High     Low                     Middle-High    Depends
+Nuclear         24/7/365          Yes               5+ years                Very high     High risk
+Sea wave
+
+
+THE Alternative: Hydrodyne Power 
+Using the natural movement of water as power supply
+-70% of earth is sea
+-Energy source is the tidal interaction with the moon thus can't stop.
+ If it stops, it means that the moon has separated from the earth which means
+ everything is dead
+-Utilizing the entire seashore can provide energy without any fuel cost in an
+ uninterrupted manner
+
+How it works:What it is
+  A hydrodyne is a flexible panel that generates power through a plane array of 
+
+
+ <Fig. > Hydrodyne panel - Maqss production suitable
+
+ <Fig.  > Reluctance based hydrodyne panel example
+AI:Nano Banana
+
+
+   Hydrodyne Details
+
+
+
+  Each layer and unit have low cost controllers and power charge/discharge capacitors.
+ The controllers ha
+
+
+-Energy stored on:
+ 1)Mountain/hill/building wall based sandbag storage
+ Large part of land mass is mountain/hill, sand is low-cost
+ geared motor functions as motor when charged, as dynamo when discharged
+ ESS requires massive investment in dangerous lithium based storage devices
+ that also require large amounts of RARE EARTH material which is a cost and
+ geopolitical problem as rare earth has become a flashppint of geopolitics,
+ after semiconductors and oil. But sand is everywhere , the sand from beaches where
+ now the hydrodyne units are installed 
+
+
+
+ Most of land is either hill or mountain and thus there is large space for implementing
+ the sandbag based energy buffer storage. The sandbags run inside plastic cloth such
+ as tarpauline covered ducts up and down the mountains while being connected to
+ a cable going through a braked pulley at the top and a winch/generator at the opposite
+ side. When energy is stored from the hydrodyne panel system and 
+
+
+ <Fig.  > Sandbag storage-Replacing rare earth batteries
+<Fig.  > Exploding and burning batteries
+
+
+  
+ 
+ 2)Sand battery
+ If 1) capacity is saturated or there is only flatland
+ -Sand batteries are very efficient at heat storage but very inefficient for electricity
+  -Heat storage for water/indoor heating required anyway
+  -Electricity can be made through heat exchange turbines
+ 3)Hydrogen/oxygen
+  -Electricity can be used to make hydrogen and oxygen which can be transported
+   using pipelines or safe containers that would release hydrogen slowly for slow flame
+   burning if container damaged or overpressurized and thus leaving only water vapor
+   Batteries such as LTO and lead acid are expensive and should be used for buffering/
+   UPS/overnight purposes only
+
+
+
+   Rainwater(rainfall.draib),evaporation turbines,rivers can be used together with seawater
+   movement to generate power.
+    All of these things are low tech low capital and thus will be available at ali,
+   The water and wind turbines as well as bike generators are already sold at ali.
+   Here are some hand sketches for illustration:
+   
+
+  
+  <Fig.1>Seashore generation using hydrodynes
+  <Fig.2>Mountain based sandbag batteries
+  <Fig.3>Sand batteries for heat storage
+  <Fig.4>Waterflow energy collection
+  <Fig.5>Hydrogen generation(Thermodyne)/SafeCan 
+
+   These generation/storage means are consolidated into semiautomatic systems on a distributed
+   local basis.
+   <Fig.6> System Consolidation- Hand drawing
+
+   3. Enabling tech-Time division multiplexing and energy switching
+       Local based distributed system for smaller societies, not based on centralized grid
+       unlike on bug establishent
+   3.1 Time division multiplexing of different energy sources 
+   The hydrodyne system consists of many power generatrion devices which have different
+    voltages and currents. There is no real working way to run such generators in parallel ,
+   at least without power loss or lower power generators not actually supplying anything.
+    However:
+    Seawater motion is slow ,in second unit intervals, And there is a slow motion stop interval.
+    Thus, time multiplexed power travsfer using mass manufactured devices is possible,.
+    Which means:
+    Different devices discharge their power at different timeslots in a seawater motion interval,
+    generate when seawater moves inward, discharge power to the upper branch at successive
+    different interval according to time signal and their sequence id, thus no overlapping leak of
+    generated power occurs, resulting in a power pulse train of different amplitudes and duty cycles.
+    The time reference would be a real time clock or timebase radio signal, or supplied through
+    lines. Whatever is most cost-effective. The still motion interval is detected through a cheap sensor
+    such as MPU6050 which is used in many low cost toys. During this detected still wave period
+    each genera
+
+
+
+    <Fig.  > Time division multiplexing of power sources
+
+
+
+   Advantages
+   No top notch technology or massive capital investment required unlike tidal wave plants
+   which only Korea has because only Korea has that sort of technology and capital(the
+   reason why no other country can make dram and music)
+   No greenhouse gases/depletion of resources
+   No fuel transport required
+   Uninterrupted energy generation as long as there is water on earth and moon is in orbit
+   As mentioned in my handsketch video 2 years ago, electric cars needn't batteries.
+   It is similar to induction powered trams or, in the case of korea only, induction powered
+   high speed rail
+   Low cost-
+   As the "fuel" ,that is, tidal interaction btw earth and sun is available at no other cost'
+   and just initial investment for ali available low cost low tech devices. electricity will be
+   much cheaper.
+   Cost would be for covering (the low) initial investment and maintenance costs, land rent,
+   and billing for a fraction of other electricity means and line rental charges.Additional required
+   power costs such as for ai gpu arrays would be paid by renting multiple "lines" corresponding
+   to the power requirement
+   Cost=fraction of other electricity means(fixed rate)*overuse part*no.of rented "lines"
+   
+   Revenue creation
+   1)The above cost payment(albeit much lower than existing electricities)
+   2)H2 sales
+   3)NPK fertilizer and rare earth as well as plain salt from seawater 
+    (already done at dead sea)
+    =>FOOD INDEPENDENCE,NO OIL USED AT ALL
+   NO WAR
